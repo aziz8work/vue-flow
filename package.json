@@ -1,0 +1,27 @@
+{
+  "name": "nested-flow",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@vue-flow/additional-components": "1.3.0",
+    "@vue-flow/core": "1.4.2",
+    "vue": "^3.2.31"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^0.9.0",
+    "@types/node": "latest",
+    "@vitejs/plugin-vue": "^3.2.0",
+    "eslint": "^7.32.0",
+    "eslint-plugin-chai-friendly": "^0.7.2",
+    "eslint-plugin-prettier": "^3.4.1",
+    "unplugin-auto-import": "^0.6.8",
+    "prettier": "^2.4.1",
+    "typescript": "^4.8.4",
+    "vite": "^3.2.4"
+  },
+  "keywords": [],
+  "description": ""
+}
